@@ -9,3 +9,10 @@ built on Pytorch 1.4 and torchvision 0.4 #CIFAR outputs
 ![After 4th Epoch](https://github.com/Satyake/GANSDC/blob/main/fake_samples_epoch_004.png)
 
 ![After 25th Epoch](https://github.com/Satyake/GANSDC/blob/main/fake_samples_epoch_024.png)
+
+#MNIST Outputs
+
+
+![After 2nd Epoch](https://github.com/Satyake/GANSDC/blob/main/fake_samples_epoch_002.png)
+
+#Anime girls
