@@ -5,5 +5,5 @@ GANs based on the popular
 built on Pytorch 1.4 and torchvision 0.4
 1) CIFAR outputs
 ![After 1st Epoch](https://github.com/Satyake/GANSDC/blob/main/fake_samples_epoch_000.png)
-![After 4th Epoch] (https://github.com/Satyake/GANSDC/blob/main/fake_samples_epoch_004.png)
-![After 25th Epoch] (https://github.com/Satyake/GANSDC/blob/main/fake_samples_epoch_024.png
+![After 4th Epoch](https://github.com/Satyake/GANSDC/blob/main/fake_samples_epoch_004.png)
+![After 25th Epoch](https://github.com/Satyake/GANSDC/blob/main/fake_samples_epoch_024.png)
