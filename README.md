@@ -16,6 +16,8 @@ built on Pytorch 1.4 and torchvision 0.4 Following are the reconstructions on An
 ![After 1st Epoch](https://github.com/Satyake/GANSDC/blob/main/fake_samples_epoch_002.png)
 
 #Anime girls
+
+
 ![After 1st Epoch](https://github.com/Satyake/GANSDC/blob/main/fake_samples_epoch_001.png)
 ![After 2nd Epoch](https://github.com/Satyake/GANSDC/blob/main/fake_samples_epoch_002_1.png)
 ![After 24th Epoch](https://github.com/Satyake/GANSDC/blob/main/fake_samples_epoch_0241.png)
